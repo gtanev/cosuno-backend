@@ -1,0 +1,221 @@
+[
+  {
+    "name": "Hochtief",
+    "logo": "//logo.clearbit.com/hochtief.com",
+    "specialties": [
+      "Building Construction",
+      "Transportation & Infrastructure",
+      "Civil Engineering",
+      "Mining"
+    ],
+    "address": "Opernplatz 2, 45128 Essen",
+    "website": "https://www.hochtief.com"
+  },
+  {
+    "name": "Lindner Group",
+    "logo": "//logo.clearbit.com/lindner-group.com",
+    "specialties": [
+      "Building Construction",
+      "Structural Engineering",
+      "Materials Engineering",
+      "Refurbishment & Renovation"
+    ],
+    "address": "Lübecker Str. 5a, 30880 Laatzen",
+    "website": "https://www.lindner-group.com"
+  },
+  {
+    "name": "ETS Efficient Technical Solutions",
+    "logo": "//logo.clearbit.com/ets-tec.de",
+    "specialties": [
+      "Plant Construction",
+      "Sanitary Engineering",
+      "Automation Systems"
+    ],
+    "address": "Am Scherhübel 14, 92253 Schnaittenbach",
+    "website": "https://www.ets-tec.de"
+  },
+  {
+    "name": "Strabag SE",
+    "logo": "//logo.clearbit.com/strabag.com",
+    "specialties": [
+      "Building Construction",
+      "Civil Engineering",
+      "Transportation & Infrastructure"
+    ],
+    "address": "Siegburger Str. 241, 50679 Cologne",
+    "website": "https://www.strabag.com"
+  },
+  {
+    "name": "Goldbeck",
+    "logo": "//logo.clearbit.com/goldbeck.de",
+    "specialties": [
+      "Building Construction"
+    ],
+    "address": "Ummelner Straße 4-6, 33649 Bielefeld",
+    "website": "https://www.goldbeck.de"
+  },
+  {
+    "name": "Porr Group",
+    "logo": "//logo.clearbit.com/porr-group.com",
+    "specialties": [
+      "Building Construction",
+      "Structural Engineering",
+      "Civil Engineering",
+      "Plant Construction"
+    ],
+    "address": "Walter-Gropius-Strasse 23, 80807 Munich",
+    "website": "https://porr-group.com"
+  },
+  {
+    "name": "Eiffage Infra-Bau",
+    "logo": "//logo.clearbit.com/eiffage.com",
+    "specialties": [
+      "Building Construction",
+      "Structural Engineering",
+      "Civil Engineering",
+      "Transportation & Infrastructure"
+    ],
+    "address": "Wahlerstraße 28, 40472 Düsseldorf",
+    "website": "https://bau.eiffage-infra.de"
+  },
+  {
+    "name": "Heberger Construction",
+    "logo": "//logo.clearbit.com/heberger.ro",
+    "specialties": [
+      "Building Construction",
+      "Civil Engineering",
+      "Real Estate Development"
+    ],
+    "address": "Waldspitzweg 3, 67105 Schifferstadt",
+    "website": "https://www.heberger.com"
+  },
+  {
+    "name": "Implenia Construction",
+    "logo": "//logo.clearbit.com/implenia.com",
+    "specialties": [
+      "Materials Engineering",
+      "Civil Engineering",
+      "Real Estate Development"
+    ],
+    "address": "Landsberger Str. 290, 80687 München",
+    "website": "https://implenia.com"
+  },
+  {
+    "name": "Max Bögl",
+    "logo": "//logo.clearbit.com/max-boegl.de",
+    "specialties": [
+      "Building Construction",
+      "Transportation & Infrastructure",
+      "Renewable Energy"
+    ],
+    "address": "Max-Bögl-Straße 1, 92369 Sengenthal",
+    "website": "https://www.max-boegl.de"
+  },
+  {
+    "name": "Kaefer",
+    "logo": "//logo.clearbit.com/kaefer-me.com",
+    "specialties": [
+      "Building Construction",
+      "Shipbuilding"
+    ],
+    "address": "Marktstr. 2, 28195 Bremen",
+    "website": "https://www.kaefer.com"
+  },
+  {
+    "name": "Köster",
+    "logo": "//logo.clearbit.com/koester-bau.de",
+    "specialties": [
+      "Building Construction",
+      "Civil Engineering"
+    ],
+    "address": "Sutthauser Straße 280, 49080 Osnabrück",
+    "website": "https://www.koester-bau.de"
+  },
+  {
+    "name": "Wolff & Müller",
+    "logo": "//logo.clearbit.com/wm-energy.de",
+    "specialties": [
+      "Building Construction",
+      "Civil Engineering",
+      "Refurbishment & Renovation",
+      "Plant Construction"
+    ],
+    "address": "Schwieberdinger Straße 107, 70435 Stuttgart",
+    "website": "https://www.wolff-mueller.de"
+  },
+  {
+    "name": "Geiger Group",
+    "logo": "//logo.clearbit.com/geigergruppe.de",
+    "specialties": [
+      "Building Construction",
+      "Civil Engineering",
+      "Refurbishment & Renovation",
+      "Real Estate Development",
+      "Renewable Energy"
+    ],
+    "address": "Wilhelm-Geiger-Straße 1, 87561 Oberstdorf",
+    "website": "https://www.geigergruppe.de"
+  },
+  {
+    "name": "W. Markgraf",
+    "logo": "//logo.clearbit.com/markgraf-bau.de",
+    "specialties": [
+      "Building Construction",
+      "Civil Engineering"
+    ],
+    "address": "Dieselstraße 9, 95448 Bayreuth",
+    "website": "https://www.markgraf-bau.de"
+  },
+  {
+    "name": "Depenbrock",
+    "logo": "//logo.clearbit.com/depenbrock.pl",
+    "specialties": [
+      "Building Construction",
+      "Civil Engineering",
+      "Transportation & Infrastructure"
+    ],
+    "address": "Blumenhorst 6, 32351 Stemwede",
+    "website": "https://www.depenbrock.de"
+  },
+  {
+    "name": "Spitzke",
+    "logo": "//logo.clearbit.com/spitzke.com",
+    "specialties": [
+      "Transportation & Infrastructure"
+    ],
+    "address": "GVZ Berlin Süd, Märkische Allee 39/41, 14979 Großbeeren",
+    "website": "https://www.spitzke.com"
+  },
+  {
+    "name": "Aug. Prien",
+    "logo": "//logo.clearbit.com/augprien.de",
+    "specialties": [
+      "Building Construction",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Transportation & Infrastructure",
+      "Refurbishment & Renovation"
+    ],
+    "address": "Dampfschiffsweg 3 - 9, 21079 Hamburg",
+    "website": "https://www.augprien.de"
+  },
+  {
+    "name": "Peter Gross",
+    "logo": "//logo.clearbit.com/gross-bau.de",
+    "specialties": [
+      "Building Construction",
+      "Civil Engineering"
+    ],
+    "address": "Dudweilerstraße 80, 66386 St. Ingbert",
+    "website": "https://gross-bau.de"
+  },
+  {
+    "name": "WeberHaus",
+    "logo": "//logo.clearbit.com/weberhaus.de",
+    "specialties": [
+      "Building Construction"
+    ],
+    "address": "Am Erlenpark 1, 77866 Rheinau",
+    "website": "https://www.weberhaus.de"
+  }
+]
