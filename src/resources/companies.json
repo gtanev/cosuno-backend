@@ -42,7 +42,7 @@
       "Civil Engineering",
       "Transportation & Infrastructure"
     ],
-    "address": "Siegburger Str. 241, 50679 Cologne",
+    "address": "Siegburger Str. 241, 50679 Köln",
     "website": "https://www.strabag.com"
   },
   {
@@ -63,7 +63,7 @@
       "Civil Engineering",
       "Plant Construction"
     ],
-    "address": "Walter-Gropius-Strasse 23, 80807 Munich",
+    "address": "Walter-Gropius-Straße 23, 80807 München",
     "website": "https://porr-group.com"
   },
   {
@@ -116,6 +116,7 @@
     "logo": "//logo.clearbit.com/kaefer-me.com",
     "specialties": [
       "Building Construction",
+      "Mining",
       "Shipbuilding"
     ],
     "address": "Marktstr. 2, 28195 Bremen",
@@ -204,7 +205,8 @@
     "logo": "//logo.clearbit.com/gross-bau.de",
     "specialties": [
       "Building Construction",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Transportation & Infrastructure"
     ],
     "address": "Dudweilerstraße 80, 66386 St. Ingbert",
     "website": "https://gross-bau.de"
